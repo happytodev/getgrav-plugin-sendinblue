@@ -1,1 +1,1 @@
-"# getgrav-plugin-sendinblue" 
+# getgrav-plugin-sendinblue
